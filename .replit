@@ -1,0 +1,6 @@
+language = "bash"
+run = "bash main.sh"
+
+[[ports]]
+localPort = 80
+externalPort = 80
